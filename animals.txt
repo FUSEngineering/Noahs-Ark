@@ -7,7 +7,19 @@ donkey	Cisco IOS in a Nutshell	2005	Boney, James
 crab	Practical Statistics	2020	Gedek, Peter
 oryx	Writing Word Macros	1999	Roman, Steven
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+flamingo Software Engineering at Google 2020 Rohan,Dominic
+ 
+=======
+wolf    UX Strategy             2021    Levy, Jaime
+>>>>>>> 32021e7aa61b1ae3711a400bab7d099f65cbbd9b
+=======
+<<<<<<< HEAD
+>>>>>>> 888c3828f178e720fb62b95365e1723cf72ff864
 =======
 wolf    UX Strategy             2021    Levy, Jaime
 >>>>>>> 32021e7aa61b1ae3711a400bab7d099f65cbbd9b
 cow	C in a Nutshell		2016	Booth, James
+>>>>>>> bd9be7401a1a4b358ffaa70d4b0b8cdbd6d65025

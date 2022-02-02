@@ -5,6 +5,7 @@ robin	MySQL High Availability	2014	Bell, Charles
 horse	Linux in a Nutshell	2009	Siever, Ellen
 donkey	Cisco IOS in a Nutshell	2005	Boney, James
 crab	Practical Statistics	2020	Gedek, Peter
+<<<<<<< HEAD
 oryx	Writing Word Macros	1999	Roman, Steven
 flamingo Software Engineering at Google 2020 Rohan,Dominic
 wolf    UX Strategy             2021    Levy, Jaime
@@ -15,4 +16,7 @@ flamingo Software Engineering at Google 2020 Rohan,Dominic
 wolf    UX Strategy             2021    Levy, Jaime
 cow	C in a Nutshell		2016	Booth, James
 rhino	JavaScript: Guide	2020	Flanagan, David 
+=======
+fish	Visual Basic Cookbook	2006	Craig, John
+>>>>>>> 496013d41a95277a02fcc1f82da55acb8cd71cd1
 

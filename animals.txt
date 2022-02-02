@@ -9,3 +9,4 @@ oryx	Writing Word Macros	1999	Roman, StevenD
 fish	Visual Basic Cookbook   2006    Craig, John
 cow	C in a Nutshell		2016	Booth, James
 wolf    UX Strategy             2021    Levy, Jaime
+flamingo Software Engineering at Google 2020 Rohan,Dominic

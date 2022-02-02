@@ -12,3 +12,4 @@ wolf    UX Strategy             2021    Levy, Jaime
 cow	C in a Nutshell		2016	Booth, James
 rhino	JavaScript: Guide	2020	Flanagan, David 
 fish	Visual Basic Cookbook	2006	Craig, John
+cthulhu	Effective C		2020	Seacord, Robert

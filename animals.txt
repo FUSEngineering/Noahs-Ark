@@ -5,6 +5,7 @@ robin	MySQL High Availability	2014	Bell, Charles
 horse	Linux in a Nutshell	2009	Siever, Ellen
 donkey	Cisco IOS in a Nutshell	2005	Boney, James
 crab	Practical Statistics	2020	Gedek, Peter
+<<<<<<< HEAD
 oryx	Writing Word Macros	1999	Roman, Steven
 <<<<<<< HEAD
 =======
@@ -40,3 +41,7 @@ rhino	JavaScript: Guide	2020	Flanagan, David
 =======
 >>>>>>> bd9be7401a1a4b358ffaa70d4b0b8cdbd6d65025
 >>>>>>> 888c3828f178e720fb62b95365e1723cf72ff864
+=======
+fish	Visual Basic Cookbook	2006	Craig, John
+
+>>>>>>> 496013d41a95277a02fcc1f82da55acb8cd71cd1

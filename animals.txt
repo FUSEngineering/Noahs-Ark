@@ -10,13 +10,16 @@ oryx	Writing Word Macros	1999	Roman, Steven
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 flamingo Software Engineering at Google 2020 Rohan,Dominic
  
 =======
 wolf    UX Strategy             2021    Levy, Jaime
 >>>>>>> 32021e7aa61b1ae3711a400bab7d099f65cbbd9b
 =======
-<<<<<<< HEADcow	C in a Nutshell		2016	Booth, James
+<<<<<<< HEAD
+>>>>>>> 888c3828f178e720fb62b95365e1723cf72ff864
 =======
 >>>>>>> 888c3828f178e720fb62b95365e1723cf72ff864
 wolf    UX Strategy             2021    Levy, Jaime

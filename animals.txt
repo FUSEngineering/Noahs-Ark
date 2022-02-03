@@ -6,5 +6,6 @@ horse	Linux in a Nutshell	2009	Siever, Ellen
 donkey	Cisco IOS in a Nutshell	2005	Boney, James
 crab	Practical Statistics	2020	Gedek, Peter
 oryx	Writing Word Macros	1999	Roman, Steven
+HEADcow	C in a Nutshell		2016	Booth, James
 wolf    UX Strategy             2021    Levy, Jaime
-hawk    Raspberry Pi Cookbook   2019    Monk, Simon
+cow	C in a Nutshell		2016	Booth, James

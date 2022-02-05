@@ -5,5 +5,5 @@ robin	MySQL High Availability	2014	Bell, Charles
 horse	Linux in a Nutshell	2009	Siever, Ellen
 donkey	Cisco IOS in a Nutshell	2005	Boney, James
 crab	Practical Statistics	2020	Gedek, Peter
-oryx	Writing Word Macros	1999	Roman, Steven
-
+oryx 	Writing Word Macros	1999	Roman, Steven
+Sea Otter	 Automating System Adminsitration with Perl	2009	Edelman, David

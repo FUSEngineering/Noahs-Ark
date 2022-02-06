@@ -17,4 +17,4 @@ cthulhu	Effective C		2020	Seacord, Robert
 hawk	Raspberry Pi Cookbook	2019	Monk, Simon
 Ermine	Java and XSLT		2001	Burke, Eric
 bee	Building Microservices2	2020	Newman, Sam
-crab	Learning Algorithms	2021	Heineman, George
+crab	Learning Algorithms	2021	Shaferly, Will

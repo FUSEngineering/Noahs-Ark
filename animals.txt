@@ -25,4 +25,9 @@ bee	Building Microservices2	2020	Newman, Sam
 crab	Learning Algorithms	2021	Shaferly, Will
 alpaca	Intermediate Perl, 2nd Edition	2012	D Foy, Brian
 Gopher  Learning Go		2021	Bodner, James
+<<<<<<< HEAD
 >>>>>>> 9bbc147fd81c2490cac4b25081964099b2494be1
+=======
+horse   Learning Rails 5        2016    Joshua Suess
+
+>>>>>>> 4fe36b8871165eb8c3d9176d74465ce7fdb5e314

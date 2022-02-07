@@ -30,3 +30,4 @@ Gopher  Learning Go		2021	Bodner, James
 chimp	Collaborative Product Design	2019	Govella, Austin
 horse   Learning Rails 5        2016    Locklear, Mark
 gecco	Hands-On Machine learning 2nd Edition	2019	Geron, Aurelien
+loris   Learning the vi Editor  1998    Robbins, Arnold 

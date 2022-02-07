@@ -6,34 +6,8 @@ robin	MySQL High Availability	2014	Bell, Charles
 horse	Linux in a Nutshell	2009	Siever, Ellen
 donkey	Cisco IOS in a Nutshell	2005	Boney, James
 oryx	Writing Word Macros	1999	Roman, Steven
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 lizard	Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFLow, 2nd Edition	2019	Geron, Aurekien cd G	Joachim Ahearn
-
-=======
-wolf    UX Strategy             2021    Levy, Jaime
->>>>>>> 32021e7aa61b1ae3711a400bab7d099f65cbbd9b
-=======
-<<<<<<< HEAD
-flamingo Software Engineering at Google 2020 Rohan,Dominic
- 
-=======
 bees    Building Micriservices  2021    Newman, Sam
->>>>>>> d2f86527aad9f0c692612319edba32ae7c4ab273
-=======
-=======
-bees    Building Micriservices  2021    Newman, Sam
->>>>>>> c80b989c61c09b3358886b50cdfb20f27956896f
-wolf    UX Strategy             2021    Levy, Jaime
-cow	C in a Nutshell		2016	Booth, James
 rat	Learning Python		2013	Lutz, Mark
 crab	Practical Statistics	2020	Gedek, Peter
 flamingo Software Engineering at Google 2020 Rohan,Dominic
@@ -57,4 +31,3 @@ Gopher  Learning Go		2021	Bodner, James
 chimp	Collaborative Product Design	2019	Govella, Austin
 horse   Learning Rails 5        2016    Locklear, Mark
 gecco	Hands-On Machine learning 2nd Edition	2019	Geron, Aurelien
-DELETE THIS ONE DR FREZZA

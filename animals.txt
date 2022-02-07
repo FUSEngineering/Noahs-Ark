@@ -8,6 +8,7 @@ crab	Practical Statistics	2020	Gedek, Peter
 <<<<<<< HEAD
 oryx	Writing Word Macros	1999	Roman, Steven
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -42,6 +43,19 @@ rhino	JavaScript: Guide	2020	Flanagan, David
 >>>>>>> bd9be7401a1a4b358ffaa70d4b0b8cdbd6d65025
 >>>>>>> 888c3828f178e720fb62b95365e1723cf72ff864
 =======
+=======
+flamingo Software Engineering at Google 2020 Rohan,Dominic
+wolf    UX Strategy             2021    Levy, Jaime
+cow	C in a Nutshell		2016	Booth, James
+wolf    UX Strategy             2021    Levy, Jaime
+cow	C in a Nutshell		2016	Booth, James
+flamingo Software Engineering at Google 2020 Rohan,Dominic
+wolf    UX Strategy             2021    Levy, Jaime
+cow	C in a Nutshell		2016	Booth, James
+rhino	JavaScript: Guide	2020	Flanagan, David 
+=======
+>>>>>>> b1f8911a5908e914e51e7b6f54ab940d4bb51bdf
 fish	Visual Basic Cookbook	2006	Craig, John
+>>>>>>> 496013d41a95277a02fcc1f82da55acb8cd71cd1
 
 >>>>>>> 496013d41a95277a02fcc1f82da55acb8cd71cd1

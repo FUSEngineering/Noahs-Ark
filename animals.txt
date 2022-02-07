@@ -4,6 +4,20 @@ alpaca	Intermediate Perl	2012	Schwartz, Randal
 robin	MySQL High Availability	2014	Bell, Charles
 horse	Linux in a Nutshell	2009	Siever, Ellen
 donkey	Cisco IOS in a Nutshell	2005	Boney, James
-crab	Practical Statistics	2020	Gedek, Peter
 oryx	Writing Word Macros	1999	Roman, Steven
-lion
+<<<<<<< HEAD
+=======
+cow	C in a Nutshell		2016	Booth, James
+rat	Learning Python		2013	Lutz, Mark
+crab	Practical Statistics	2020	Gedek, Peter
+flamingo Software Engineering at Google 2020 Rohan,Dominic
+wolf    UX Strategy             2021    Levy, Jaime
+cow	C in a Nutshell		2016	Booth, James
+rhino	JavaScript: Guide	2020	Flanagan, David 
+fish	Visual Basic Cookbook	2006	Craig, John
+cthulhu	Effective C		2020	Seacord, Robert
+hawk	Raspberry Pi Cookbook	2019	Monk, Simon
+Ermine	Java and XSLT		2001	Burke, Eric
+bee	Building Microservices2	2020	Newman, Sam
+warthog Learning React          2020    Banks, Alex
+>>>>>>> 4b4401c09b3d8689dc530cecc9a5afc2e44c79bb

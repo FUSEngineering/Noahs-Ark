@@ -1,69 +1,18 @@
-﻿python	Programming Python	2010	Lutz, Mark
+python	Programming Python	2010	Lutz, Mark
 snail	SSH, The Secure Shell	2005	Barrett, Daniel
 alpaca	Intermediate Perl	2012	Schwartz, Randal
 robin	MySQL High Availability	2014	Bell, Charles
 horse	Linux in a Nutshell	2009	Siever, Ellen
 donkey	Cisco IOS in a Nutshell	2005	Boney, James
 oryx	Writing Word Macros	1999	Roman, Steven
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 lizard	Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFLow, 2nd Edition	2019	Geron, Aurekien cd G	Joachim Ahearn
-
-
-
-
-
-=======
 wolf    UX Strategy             2021    Levy, Jaime
->>>>>>> 32021e7aa61b1ae3711a400bab7d099f65cbbd9b
-=======
-<<<<<<< HEAD
 flamingo Software Engineering at Google 2020 Rohan,Dominic
- 
-=======
-wolf    UX Strategy             2021    Levy, Jaime
->>>>>>> 32021e7aa61b1ae3711a400bab7d099f65cbbd9b
-=======
-<<<<<<< HEAD
->>>>>>> 888c3828f178e720fb62b95365e1723cf72ff864
-=======
->>>>>>> 888c3828f178e720fb62b95365e1723cf72ff864
-wolf    UX Strategy             2021    Levy, Jaime
 cow	C in a Nutshell		2016	Booth, James
-<<<<<<< HEAD
 rhino	JavaScript: Guide	2020	Flanagan, David 
-=======
->>>>>>> bd9be7401a1a4b358ffaa70d4b0b8cdbd6d65025
->>>>>>> 888c3828f178e720fb62b95365e1723cf72ff864
-=======
-=======
-flamingo Software Engineering at Google 2020 Rohan,Dominic
-wolf    UX Strategy             2021    Levy, Jaime
-cow	C in a Nutshell		2016	Booth, James
-wolf    UX Strategy             2021    Levy, Jaime
-=======
->>>>>>> d2b8403751588683da96c7239739d228c9c75018
-cow	C in a Nutshell		2016	Booth, James
 rat	Learning Python		2013	Lutz, Mark
 crab	Practical Statistics	2020	Gedek, Peter
-flamingo Software Engineering at Google 2020 Rohan,Dominic
-wolf    UX Strategy             2021    Levy, Jaime
-cow	C in a Nutshell		2016	Booth, James
-rhino	JavaScript: Guide	2020	Flanagan, David 
-<<<<<<< HEAD
-=======
->>>>>>> b1f8911a5908e914e51e7b6f54ab940d4bb51bdf
 fish	Visual Basic Cookbook	2006	Craig, John
->>>>>>> 496013d41a95277a02fcc1f82da55acb8cd71cd1
-
->>>>>>> 496013d41a95277a02fcc1f82da55acb8cd71cd1
-=======
 fish	Visual Basic Cookbook	2006	Craig, John
 cthulhu	Effective C		2020	Seacord, Robert
 hawk	Raspberry Pi Cookbook	2019	Monk, Simon
@@ -72,4 +21,3 @@ bee	Building Microservices2	2020	Newman, Sam
 crab	Learning Algorithms	2021	Shaferly, Will
 alpaca	Intermediate Perl, 2nd Edition	2012	D Foy, Brian
 Gopher  Learning Go		2021	Bodner, James
->>>>>>> d2b8403751588683da96c7239739d228c9c75018

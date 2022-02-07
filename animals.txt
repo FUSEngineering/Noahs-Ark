@@ -1,23 +1,32 @@
-﻿python	Programming Python	2010	Lutz, Mark
+frog	Learning SQL	2020	Beaulieu, Alann
+python	Programming Python	2010	Lutz, Mark
 snail	SSH, The Secure Shell	2005	Barrett, Daniel
 alpaca	Intermediate Perl	2012	Schwartz, Randal
 robin	MySQL High Availability	2014	Bell, Charles
 horse	Linux in a Nutshell	2009	Siever, Ellen
 donkey	Cisco IOS in a Nutshell	2005	Boney, James
 oryx	Writing Word Macros	1999	Roman, Steven
-<<<<<<< HEAD
-=======
 cow	C in a Nutshell		2016	Booth, James
 rat	Learning Python		2013	Lutz, Mark
 crab	Practical Statistics	2020	Gedek, Peter
 flamingo Software Engineering at Google 2020 Rohan,Dominic
+penguin	Reinforcement Learning	2020	Winder, Phil
+lizard	Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFLow, 2nd Edition	2019	Geron, Aurekien cd G	Joachim Ahearn
 wolf    UX Strategy             2021    Levy, Jaime
+flamingo Software Engineering at Google 2020 Rohan,Dominic
 cow	C in a Nutshell		2016	Booth, James
 rhino	JavaScript: Guide	2020	Flanagan, David 
+rat	Learning Python		2013	Lutz, Mark
+crab	Practical Statistics	2020	Gedek, Peter
+fish	Visual Basic Cookbook	2006	Craig, John
 fish	Visual Basic Cookbook	2006	Craig, John
 cthulhu	Effective C		2020	Seacord, Robert
 hawk	Raspberry Pi Cookbook	2019	Monk, Simon
 Ermine	Java and XSLT		2001	Burke, Eric
 bee	Building Microservices2	2020	Newman, Sam
-warthog Learning React          2020    Banks, Alex
->>>>>>> 4b4401c09b3d8689dc530cecc9a5afc2e44c79bb
+warthog Learning React          2020    Black, Bryan
+crab	Learning Algorithms	2021	Shaferly, Will
+alpaca	Intermediate Perl, 2nd Edition	2012	D Foy, Brian
+Gopher  Learning Go		2021	Bodner, James
+chimp	Collaborative Product Design	2019	Govella, Austin
+horse   Learning Rails 5        2016    Joshua Suess

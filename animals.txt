@@ -10,7 +10,6 @@ lizard	Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFLow, 2nd E
 bees    Building Micriservices  2021    Newman, Sam
 rat	Learning Python		2013	Lutz, Mark
 crab	Practical Statistics	2020	Gedek, Peter
-flamingo Software Engineering at Google 2020 Rohan,Dominic
 penguin	Reinforcement Learning	2020	Winder, Phil
 lizard	Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFLow, 2nd Edition	2019	Geron, Aurekien cd G	Joachim Ahearn
 wolf    UX Strategy             2021    Levy, Jaime

@@ -23,3 +23,4 @@ crab	Learning Algorithms	2021	Shaferly, Will
 alpaca	Intermediate Perl, 2nd Edition	2012	D Foy, Brian
 Gopher  Learning Go		2021	Bodner, James
 chimp	Collaborative Product Design	2019	Govella, Austin
+horse   Learning Rails 5        2016    Joshua Suess

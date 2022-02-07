@@ -15,10 +15,6 @@ oryx	Writing Word Macros	1999	Roman, Steven
 <<<<<<< HEAD
 lizard	Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFLow, 2nd Edition	2019	Geron, Aurekien cd G	Joachim Ahearn
 
-
-
-
-
 =======
 wolf    UX Strategy             2021    Levy, Jaime
 >>>>>>> 32021e7aa61b1ae3711a400bab7d099f65cbbd9b

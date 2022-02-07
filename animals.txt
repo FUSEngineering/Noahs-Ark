@@ -19,7 +19,6 @@ rhino	JavaScript: Guide	2020	Flanagan, David
 rat	Learning Python		2013	Lutz, Mark
 crab	Practical Statistics	2020	Gedek, Peter
 fish	Visual Basic Cookbook	2006	Craig, John
-fish	Visual Basic Cookbook	2006	Craig, John
 cthulhu	Effective C		2020	Seacord, Robert
 hawk	Raspberry Pi Cookbook	2019	Monk, Simon
 Ermine	Java and XSLT		2001	Burke, Eric

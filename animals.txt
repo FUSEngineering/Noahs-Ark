@@ -1,3 +1,4 @@
+frog	Learning SQL	2020	Beaulieu, Alann
 python	Programming Python	2010	Lutz, Mark
 snail	SSH, The Secure Shell	2005	Barrett, Daniel
 alpaca	Intermediate Perl	2012	Schwartz, Randal

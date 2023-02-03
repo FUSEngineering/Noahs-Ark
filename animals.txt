@@ -7,3 +7,4 @@ donkey	Cisco IOS in a Nutshell	2005	Boney, James	STF
 crab	Practical Statistics	2020	Gedek, Peter	STF
 oryx 	Writing Word Macros	1999	Roman, Steven	STF
 northern copperhead snake	C# Cookbook	2021	Mayo, Joe	JAE
+rhino	JavaScript: The Definitve Guide	2020	Flangan, David JSH

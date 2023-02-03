@@ -8,3 +8,5 @@ crab	Practical Statistics	2020	Gedek, Peter	STF
 oryx 	Writing Word Macros	1999	Roman, Steven	STF
 jellyfish	BioBuilder	2015	Kuldell, Natalie	STF
 tiger   Functional Thinking     2013    Ford, Neal      JKP
+rhino	JavaScript: The Definitve Guide	2020	Flangan, David JSH
+

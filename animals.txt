@@ -1,4 +1,4 @@
-﻿python	Programming Python	2010	Lutz, Mark	STF	
+python	Programming Python	2010	Lutz, Mark	STF	
 snail	SSH, The Secure Shell	2005	Barrett, Daniel	STF
 alpaca	Intermediate Perl	2012	Schwartz, Randal	STF
 robin	MySQL High Availability	2014	Bell, Charles	STF
@@ -6,8 +6,10 @@ horse	Linux in a Nutshell	2009	Siever, Ellen	STF
 donkey	Cisco IOS in a Nutshell	2005	Boney, James	STF
 crab	Practical Statistics	2020	Gedek, Peter	STF
 oryx 	Writing Word Macros	1999	Roman, Steven	STF
+<<<<<<< HEAD
 
 
 
 
 northern copperhead snake	C# Cookbook	2021	Mayo, Joe	JAE
+jellyfish	BioBuilder	2015	Kuldell, Natalie	STF

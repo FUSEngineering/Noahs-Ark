@@ -16,3 +16,5 @@ jellyfish	BioBuilder	2015	Kuldell, Natalie	STF
 badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, Andy	MJL
 beetle  Machine Learning for high risk applications 2023    Hall, Patrick   BJO
 tiger   Functional Thinking     2013    Ford, Neal      JKP
+Dolphin Up and Running          2019    Born, David
+bee	Building Microservices	2021	Newman, Sam	STF

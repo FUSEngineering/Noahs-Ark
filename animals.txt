@@ -17,4 +17,9 @@ beetle  Machine Learning for high risk applications 2023    Hall, Patrick   BJO
 tiger   Functional Thinking     2013    Ford, Neal      JKP
 Dolphin Up and Running          2019    Born, David
 bee	Building Microservices	2021	Newman, Sam	STF 
+<<<<<<< HEAD
 Black_Bear      CSS Cookbook (2nd Edition)      2006    Schmitt, Christopher    GA
+=======
+bass	Learning the bash shell	2005	Newham, Cameron	NJG
+
+>>>>>>> 717b7cd8f6c792e254a55974898584d251ba476e

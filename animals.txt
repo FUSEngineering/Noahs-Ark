@@ -1,4 +1,4 @@
-﻿python	Programming Python	2010	Lutz, Mark	STF	
+python	Programming Python	2010	Lutz, Mark	STF	
 snail	SSH, The Secure Shell	2005	Barrett, Daniel	STF
 alpaca	Intermediate Perl	2012	Schwartz, Randal	STF
 robin	MySQL High Availability	2014	Bell, Charles	STF
@@ -8,10 +8,7 @@ crab	Practical Statistics	2020	Gedek, Peter	STF
 oryx 	Writing Word Macros	1999	Roman, Steven	STF
 northern copperhead snake	C# Cookbook	2021	Mayo, Joe	JAE
 rhino	JavaScript: The Definitve Guide	2020	Flangan, David JSH
-<<<<<<< HEAD
-
-
-
-=======
 rooster	SharePoint User's Guide	Infusion Development Corporation	SET
->>>>>>> 86d184aed9bf5e350788c230808830fe82a555c0
+jellyfish	BioBuilder	2015	Kuldell, Natalie	STF
+badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, Andy	MJL
+beetle  Machine Learning for high risk applications 2023    Hall, Patrick   BJO

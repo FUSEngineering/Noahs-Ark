@@ -8,3 +8,4 @@ crab	Practical Statistics	2020	Gedek, Peter	STF
 oryx 	Writing Word Macros	1999	Roman, Steven	STF
 rooster	SharePoint User's Guide	Infusion Development Corporation	SET
 rhino	JavaScript: The Definitve Guide	2020	Flangan, David JSH
+badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, Andy	MJL

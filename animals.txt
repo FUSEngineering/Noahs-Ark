@@ -16,12 +16,12 @@ rooster	SharePoint User's Guide	Infusion Development Corporation	SET
 badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, Andy	MJL
 =======
 rooster	SharePoint User's Guide	Infusion Development Corporation	SET
-<<<<<<< HEAD
 jellyfish	BioBuilder	2015	Kuldell, Natalie	STF
 badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, Andy	MJL
 beetle  Machine Learning for high risk applications 2023    Hall, Patrick   BJO
-=======
->>>>>>> 86d184aed9bf5e350788c230808830fe82a555c0
 tiger   Functional Thinking     2013    Ford, Neal      JKP
+<<<<<<< HEAD
 >>>>>>> 4ca3e61bf0e8745791df99b91cc233893e8b97db
 >>>>>>> 43e2e94fef75f5d8a944f155f26670e4061d0d09
+=======
+>>>>>>> 478b0359be981f24d2df00d09480ec6d4b0a9b3b

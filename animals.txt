@@ -17,3 +17,5 @@ beetle  Machine Learning for high risk applications 2023    Hall, Patrick   BJO
 tiger   Functional Thinking     2013    Ford, Neal      JKP
 Dolphin Up and Running          2019    Born, David
 bee	Building Microservices	2021	Newman, Sam	STF 
+bass	Learning the bash shell	2005	Newham, Cameron	NJG
+

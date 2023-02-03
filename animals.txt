@@ -12,3 +12,4 @@ badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, 
 beetle  Machine Learning for high risk applications 2023    Hall, Patrick   BJO
 Dolphin Up and Running          2019    Born, David
 Frog    Learning SQL, 3rd Edition 2020  Randall, Daniel
+African Tent Tortoise Class Shell Scripting 2005 Robbins, Arnold H.F. BeeBe, Nelson JEV

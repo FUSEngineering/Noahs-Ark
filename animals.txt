@@ -8,10 +8,9 @@ crab	Practical Statistics	2020	Gedek, Peter	STF
 oryx	Writing Word Macros	1999	Roman, Steven	STF
 northern copperhead snake	C# Cookbook	2021	Mayo, Joe	JAE
 rhino	JavaScript: The Definitve Guide	2020	Flangan, David JSH
-rooster	SharePoint User's Guide	Infusion Development Corporation
+rooster	SharePoint User's Guide	Infusion Development Corporation	SET
 bison   Java Extreme Programming Cookbook   2003    Burke, Eric M.  IMJ
 badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, Andy	MJL
-rooster	SharePoint User's Guide	Infusion Development Corporation	SET
 jellyfish	BioBuilder	2015	Kuldell, Natalie	STF
 badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, Andy	MJL
 beetle  Machine Learning for high risk applications 2023    Hall, Patrick   BJO

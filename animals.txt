@@ -23,3 +23,4 @@ Black_Bear      CSS Cookbook (2nd Edition)      2006    Schmitt, Christopher    
 bass	Learning the bash shell	2005	Newham, Cameron	NJG
 
 >>>>>>> 717b7cd8f6c792e254a55974898584d251ba476e
+AardwolfClojure Cookbook	2014	Neufeld, Ryan	DPN

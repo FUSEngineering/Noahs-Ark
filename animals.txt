@@ -16,3 +16,4 @@ African Tent Tortoise Class Shell Scripting 2005 Robbins, Arnold H.F. BeeBe, Nel
 American Lobster Lift Cookbook  2013    Dallaway, Richard   MAS
 Aardwolf	Clojure Cookbook2014	Neufeld, Ryan	DPN
 eurasian woodcock	Data Mesh	2022	Dehghani, Zhamak	OMV
+moose	Apache Cookbook		2007	Rich Bowen	JTB

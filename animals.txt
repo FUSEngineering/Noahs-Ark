@@ -24,3 +24,4 @@ bass	Learning the bash shell	2005	Newham, Cameron	NJG
 
 >>>>>>> 717b7cd8f6c792e254a55974898584d251ba476e
 AardwolfClojure Cookbook	2014	Neufeld, Ryan	DPN
+Polar Bear	Information Architecture	2015	Rosenfield, Louis & Morville, Peter & Arango, Jorge	JWL

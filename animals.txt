@@ -22,3 +22,4 @@ bass	Learning the bash shell	2005	Newham, Cameron	NJG
 AardwolfClojure Cookbook	2014	Neufeld, Ryan	DPN
 Polar Bear	Information Architecture	2015	Rosenfield, Louis & Morville, Peter & Arango, Jorge	JWL
 Bat	The Self-Service Data Road map 2020 Uttamchandani, Sandeep		TFP 
+lizard Fluent Python 2nd edition 2022 Ramalho, Luciano LJS

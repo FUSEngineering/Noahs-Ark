@@ -16,6 +16,7 @@ badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, 
 beetle  Machine Learning for high risk applications 2023    Hall, Patrick   BJO
 tiger   Functional Thinking     2013    Ford, Neal      JKP
 Dolphin Up and Running          2019    Born, David
+Frog    Learning SQL, 3rd Edition 2020  Randall, Daniel
 bee	Building Microservices	2021	Newman, Sam	STF 
 Black_Bear      CSS Cookbook (2nd Edition)      2006    Schmitt, Christopher    GA
 bass	Learning the bash shell	2005	Newham, Cameron	NJG

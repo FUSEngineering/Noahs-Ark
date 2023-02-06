@@ -24,3 +24,4 @@ Polar Bear	Information Architecture	2015	Rosenfield, Louis & Morville, Peter & A
 Bat	The Self-Service Data Road map 2020 Uttamchandani, Sandeep		TFP 
 lizard Fluent Python 2nd edition 2022 Ramalho, Luciano LJS
 Flamingo Software Engineering at Google Lessons Learned from Programming over time  2020  
+African Tent Tortoise Class Shell Scripting 2005 Robbins, Arnold H.F. BeeBe, Nelson JEV

@@ -21,5 +21,5 @@ bee	Building Microservices	2021	Newman, Sam	STF
 Black_Bear      CSS Cookbook (2nd Edition)      2006    Schmitt, Christopher    GA
 =======
 bass	Learning the bash shell	2005	Newham, Cameron	NJG
-
+American Lobster Lift Cookbook  2013    Dallaway, Richard   MAS
 >>>>>>> 717b7cd8f6c792e254a55974898584d251ba476e

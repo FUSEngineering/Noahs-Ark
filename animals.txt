@@ -11,3 +11,10 @@ jellyfish	BioBuilder	2015	Kuldell, Natalie	STF
 badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, Andy	MJL
 beetle  Machine Learning for high risk applications 2023    Hall, Patrick   BJO
 Dolphin Up and Running          2019    Born, David
+Frog    Learning SQL, 3rd Edition 2020  Randall, Daniel
+African Tent Tortoise Class Shell Scripting 2005 Robbins, Arnold H.F. BeeBe, Nelson JEV
+American Lobster Lift Cookbook  2013    Dallaway, Richard   MAS
+Aardwolf	Clojure Cookbook2014	Neufeld, Ryan	DPN
+eurasian woodcock	Data Mesh	2022	Dehghani, Zhamak	OMV
+moose	Apache Cookbook		2007	Rich Bowen	JTB
+12-Wired Bird of Paradise	Mobile Design and Development	2009	Fling, Brian	DJF

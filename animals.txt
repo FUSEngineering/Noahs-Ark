@@ -28,3 +28,4 @@ Flamingo Software Engineering at Google Lessons Learned from Programming over ti
 African Tent Tortoise Class Shell Scripting 2005 Robbins, Arnold H.F. BeeBe, Nelson JEV
 12-Wired Bird of Paradise	Mobile Design and Development	2009	Fling, Brian	DJF
 Moose	Apache Cookbook		2007		Rich Bowen	JTB
+eurasian woodcock	Data Mesh	2022	Dehghani, Zhamak	OMV

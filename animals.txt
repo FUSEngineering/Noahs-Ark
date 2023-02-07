@@ -29,3 +29,4 @@ African Tent Tortoise Class Shell Scripting 2005 Robbins, Arnold H.F. BeeBe, Nel
 12-Wired Bird of Paradise	Mobile Design and Development	2009	Fling, Brian	DJF
 Moose	Apache Cookbook		2007		Rich Bowen	JTB
 eurasian woodcock	Data Mesh	2022	Dehghani, Zhamak	OMV
+African Black-footed Penguins	Reinforcement Learning	2020	Winder, Phil	CKC

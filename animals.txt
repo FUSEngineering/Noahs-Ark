@@ -8,3 +8,4 @@ crab	Practical Statistics	2020	Gedek, Peter	STF
 oryx 	Writing Word Macros	1999	Roman, Steven	STF
 parrot	Learning Microsoft Azure	2023	Andersson, Jonah	SET
 
+holstein cow	Ansible: Up and Running,3rd Edition	Meijer,Bas	2022	DB

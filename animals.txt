@@ -12,3 +12,4 @@ opossum	Introducing GitHub	2014	Bell, Peter	JFR
 frog    Learning SQL            2020    Beaulieu, Alan  MJA
 bear	Rust Atomics and Locks	2023	Bos, Mara	DMG
 African Civet	JRuby Cookbook	2008	Edelson & Liu	STF
+dolphin	Kubernetes: Up and Running	2022	Burns, Brendan; Beda, Joe; Hightower, Kelsey; Evenson, Lachlan	NJK

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 python	Programming Python	2010	Lutz, Mark	STF	
 snail	SSH, The Secure Shell	2005	Barrett, Daniel	STF
 alpaca	Intermediate Perl	2012	Schwartz, Randal	STF
@@ -6,56 +5,5 @@ robin	MySQL High Availability	2014	Bell, Charles	STF
 horse	Linux in a Nutshell	2009	Siever, Ellen	STF
 donkey	Cisco IOS in a Nutshell	2005	Boney, James	STF
 crab	Practical Statistics	2020	Gedek, Peter	STF
-oryx	Writing Word Macros	1999	Roman, Steven	STF
-northern copperhead snake	C# Cookbook	2021	Mayo, Joe	JAE
-rhino	JavaScript: The Definitve Guide	2020	Flangan, David JSH
-rooster	SharePoint User's Guide	Infusion Development Corporation	SET
-bison   Java Extreme Programming Cookbook   2003    Burke, Eric M.  IMJ
-badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, Andy	MJL
-jellyfish	BioBuilder	2015	Kuldell, Natalie	STF
-badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, Andy	MJL
-beetle  Machine Learning for high risk applications 2023    Hall, Patrick   BJO
-tiger   Functional Thinking     2013    Ford, Neal      JKP
-Dolphin Up and Running          2019    Born, David
-bee	Building Microservices	2021	Newman, Sam	STF 
-<<<<<<< HEAD
-Black_Bear      CSS Cookbook (2nd Edition)      2006    Schmitt, Christopher    GA
-=======
-bass	Learning the bash shell	2005	Newham, Cameron	NJG
-American Lobster Lift Cookbook  2013    Dallaway, Richard   MAS
->>>>>>> 717b7cd8f6c792e254a55974898584d251ba476e
-=======
-python	Programming Python	2010	Lutz, Mark	STF	
-snail	SSH, The Secure Shell	2005	Barrett, Daniel	STF
-alpaca	Intermediate Perl	2012	Schwartz, Randal	STF
-robin	MySQL High Availability	2014	Bell, Charles	STF
-horse	Linux in a Nutshell	2009	Siever, Ellen	STF
-donkey	Cisco IOS in a Nutshell	2005	Boney, James	STF
-crab	Practical Statistics	2020	Gedek, Peter	STF
-oryx	Writing Word Macros	1999	Roman, Steven	STF
-northern copperhead snake	C# Cookbook	2021	Mayo, Joe	JAE
-rhino	JavaScript: The Definitve Guide	2020	Flangan, David JSH
-rooster	SharePoint User's Guide	Infusion Development Corporation	SET
-bison   Java Extreme Programming Cookbook   2003    Burke, Eric M.  IMJ
-badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, Andy	MJL
-jellyfish	BioBuilder	2015	Kuldell, Natalie	STF
-badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, Andy	MJL
-beetle  Machine Learning for high risk applications 2023    Hall, Patrick   BJO
-tiger   Functional Thinking     2013    Ford, Neal      JKP
-Dolphin Up and Running          2019    Born, David
-Frog    Learning SQL, 3rd Edition 2020  Randall, Daniel
-bee	Building Microservices	2021	Newman, Sam	STF 
-Black_Bear      CSS Cookbook (2nd Edition)      2006    Schmitt, Christopher    GA
-bass	Learning the bash shell	2005	Newham, Cameron	NJG
-AardwolfClojure Cookbook	2014	Neufeld, Ryan	DPN
-Polar Bear	Information Architecture	2015	Rosenfield, Louis & Morville, Peter & Arango, Jorge	JWL
-Bat	The Self-Service Data Road map 2020 Uttamchandani, Sandeep		TFP 
-lizard Fluent Python 2nd edition 2022 Ramalho, Luciano LJS
-Flamingo Software Engineering at Google Lessons Learned from Programming over time  2020  
-African Tent Tortoise Class Shell Scripting 2005 Robbins, Arnold H.F. BeeBe, Nelson JEV
-12-Wired Bird of Paradise	Mobile Design and Development	2009	Fling, Brian	DJF
-Moose	Apache Cookbook		2007		Rich Bowen	JTB
-eurasian woodcock	Data Mesh	2022	Dehghani, Zhamak	OMV
-American Lobster Lift Cookbook  2013    Dallaway, Richard   MAS
-African Black-footed Penguins	Reinforcement Learning	2020	Winder, Phil	CKC
->>>>>>> 16b2418cfb4e96941f791eecce12f637d4fbe603
+oryx 	Writing Word Macros	1999	Roman, Steven	STF
+parrot	Learning Microsoft Azure	2023	Andersson, Jonah	SET

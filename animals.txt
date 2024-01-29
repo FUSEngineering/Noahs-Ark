@@ -19,4 +19,4 @@ dolphin	Kubernetes: Up and Running	2022	Burns, Brendan; Beda, Joe; Hightower, Ke
 squid	The Definitive Guide	2004	Wessels, Duane	ELJ
 aardwolf Clojure Cookbook       2014    Ryan Neufeld,Luke VanderHart   BMB
 Tortoise Classic Shell Scripting 2005 Arnold Robbins, Nelson H. F. Beebe JM
-
+Bioluminescent Octopus	Learning Functional Programming	2022	Widman, Jack	JJ

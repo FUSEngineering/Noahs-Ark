@@ -12,4 +12,11 @@ opossum	Introducing GitHub	2014	Bell, Peter	JFR
 frog    Learning SQL            2020    Beaulieu, Alan  MJA
 bear	Rust Atomics and Locks	2023	Bos, Mara	DMG
 African Civet	JRuby Cookbook	2008	Edelson & Liu	STF
-Fish 	Developing Web Components	2015	Overson, Jarrod	TMH
+<<<<<<< HEAD
+ibis	Google Analytics	2010	Cutroni, Justin	MDS
+Fish 	Developing Web Components 	2015	Overson, Jarrod 	TMH
+
+=======
+dolphin	Kubernetes: Up and Running	2022	Burns, Brendan; Beda, Joe; Hightower, Kelsey; Evenson, Lachlan	NJK
+>>>>>>> f89a71879f3d9642fe874d17af3b83f2dec76577
+>>>>>>> f5c44bfeba34aee41a3b7a0543dd88c70f3a9c94

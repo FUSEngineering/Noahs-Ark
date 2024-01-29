@@ -10,6 +10,7 @@ oryx 	Writing Word Macros	1999	Roman, Steven	STF
 parrot	Learning Microsoft Azure	2023	Andersson, Jonah	SET
 
 
+
 holstein cow	Ansible: Up and Running,3rd Edition	2022	Meijer,Bas2	DB
 =======
 python	Programming Python	2010	Lutz, Mark	STF	
@@ -21,6 +22,10 @@ donkey	Cisco IOS in a Nutshell	2005	Boney, James	STF
 crab	Practical Statistics	2020	Gedek, Peter	STF
 oryx 	Writing Word Macros	1999	Roman, Steven	STF
 parrot	Learning Microsoft Azure	2023	Andersson, Jonah	SET
-opossum Introducing GitHub	2014	Bell, Peter	JFR
+opossum	Introducing GitHub	2014	Bell, Peter	JFR
 frog    Learning SQL            2020    Beaulieu, Alan  MJA
+<<<<<<< HEAD
 >>>>>>> e6ed0f9e4c1ec06a3589c47fd8860866d5fe4f51
+=======
+bear	Rust Atomics and Locks	2023	Bos, Mara	DMG
+>>>>>>> f78887dc8b87f356e7f68c9e906d6b224861714e

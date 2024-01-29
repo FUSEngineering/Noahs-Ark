@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 python	Programming Python	2010	Lutz, Mark	STF	
 snail	SSH, The Secure Shell	2005	Barrett, Daniel	STF
 alpaca	Intermediate Perl	2012	Schwartz, Randal	STF
@@ -8,4 +9,18 @@ crab	Practical Statistics	2020	Gedek, Peter	STF
 oryx 	Writing Word Macros	1999	Roman, Steven	STF
 parrot	Learning Microsoft Azure	2023	Andersson, Jonah	SET
 
+
 holstein cow	Ansible: Up and Running,3rd Edition	2022	Meijer,Bas2	DB
+=======
+python	Programming Python	2010	Lutz, Mark	STF	
+snail	SSH, The Secure Shell	2005	Barrett, Daniel	STF
+alpaca	Intermediate Perl	2012	Schwartz, Randal	STF
+robin	MySQL High Availability	2014	Bell, Charles	STF
+horse	Linux in a Nutshell	2009	Siever, Ellen	STF
+donkey	Cisco IOS in a Nutshell	2005	Boney, James	STF
+crab	Practical Statistics	2020	Gedek, Peter	STF
+oryx 	Writing Word Macros	1999	Roman, Steven	STF
+parrot	Learning Microsoft Azure	2023	Andersson, Jonah	SET
+opossum Introducing GitHub	2014	Bell, Peter	JFR
+frog    Learning SQL            2020    Beaulieu, Alan  MJA
+>>>>>>> e6ed0f9e4c1ec06a3589c47fd8860866d5fe4f51

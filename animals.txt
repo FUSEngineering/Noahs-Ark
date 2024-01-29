@@ -5,7 +5,7 @@ robin	MySQL High Availability	2014	Bell, Charles	STF
 horse	Linux in a Nutshell	2009	Siever, Ellen	STF
 donkey	Cisco IOS in a Nutshell	2005	Boney, James	STF
 crab	Practical Statistics	2020	Gedek, Peter	STF
-oryx 	Writing Word Macros	1999	Roman, Steven	STF
+Moryx 	Writing Word Macros	1999	Roman, Steven	STF
 parrot	Learning Microsoft Azure	2023	Andersson, Jonah	SET
 holstein cow	Ansible: Up and Running,3rd Edition	2022	Meijer,Bas2	DB
 opossum	Introducing GitHub	2014	Bell, Peter	JFR
@@ -13,3 +13,7 @@ frog    Learning SQL            2020    Beaulieu, Alan  MJA
 bear	Rust Atomics and Locks	2023	Bos, Mara	DMG
 African Civet	JRuby Cookbook	2008	Edelson & Liu	STF
 cat	Learning Modern C++ for Finance	2024	Hanson, Daniel	CRW
+angora goat JUNOS Cookbook	2006	Garret, Aviva	JAF
+ibis	Google Analytics	2010	Cutroni, Justin	MDS
+dolphin	Kubernetes: Up and Running	2022	Burns, Brendan; Beda, Joe; Hightower, Kelsey; Evenson, Lachlan	NJK
+squid	The Definitive Guide	2004	Wessels, Duane	ELJ

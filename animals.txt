@@ -24,3 +24,4 @@ Bioluminescent Octopus	Learning Functional Programming	2022	Widman, Jack	JJ
 monkey	Exploring Expect	1994	Libes, Don	CHW
 boar	Designing Data-Intensive Applications  2017  Kleppmann, Martin  CTB
 american bison	Java Extreme Programming Cookbook	2003	Burke, Eric	BUB
+owl	Linux Observability with BPF	2019	Calavera, David; Fontana, Lorenzo	ASW

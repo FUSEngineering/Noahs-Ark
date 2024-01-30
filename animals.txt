@@ -23,3 +23,4 @@ Tortoise Classic Shell Scripting 2005 Arnold Robbins, Nelson H. F. Beebe JM
 Bioluminescent Octopus	Learning Functional Programming	2022	Widman, Jack	JJ
 monkey	Exploring Expect	1994	Libes, Don	CHW
 boar Designing Data-Intensive Applications  2017  Kleppmann, Martin  CTB
+owl	Linux Observability with BPF	2019	Calavera, David; Fontana, Lorenzo	ASW

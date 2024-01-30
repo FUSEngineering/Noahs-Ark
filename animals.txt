@@ -16,7 +16,6 @@ cat	Learning Modern C++ for Finance	2024	Hanson, Daniel	CRW
 angora goat JUNOS Cookbook	2006	Garret, Aviva	JAF
 ibis	Google Analytics	2010	Cutroni, Justin	MD
 Fish 	Developing Web Components 	2015	Overson, Jarrod 	TMH
-
 =======
 dolphin	Kubernetes: Up and Running	2022	Burns, Brendan; Beda, Joe; Hightower, Kelsey; Evenson, Lachlan	NJK
 >>>>>>> f89a71879f3d9642fe874d17af3b83f2dec76577
@@ -30,3 +29,4 @@ Bioluminescent Octopus	Learning Functional Programming	2022	Widman, Jack	JJ
 monkey	Exploring Expect	1994	Libes, Don	CHW
 >>>>>>> a71bfb64cc31880174657799306fb58f14451e29
 boar Designing Data-Intensive Applications  2017  Kleppmann, Martin  CTB
+american bison	Java Extreme Programming Cookbook	2003	Burke, Eric	BUB

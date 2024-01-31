@@ -26,3 +26,4 @@ boar	Designing Data-Intensive Applications  2017  Kleppmann, Martin  CTB
 american bison	Java Extreme Programming Cookbook	2003	Burke, Eric	BUB
 owl	Linux Observability with BPF	2019	Calavera, David; Fontana, Lorenzo	ASW
 African black-footed penguin	Reinforcement Learning	2020	Winder, P	JKC
+Feather Star  Developing Apps with GPT-4 and ChatGPT  2023  Caelen, Olivier; Blete, Marie-Alice  JPTM

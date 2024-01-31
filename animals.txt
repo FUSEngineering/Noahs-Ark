@@ -33,7 +33,6 @@ rooster	SharePoint User's Guide	Infusion Development Corporation	SET
 bison   Java Extreme Programming Cookbook   2003    Burke, Eric M.  IMJ
 badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, Andy	MJL
 jellyfish	BioBuilder	2015	Kuldell, Natalie	STF
-badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, Andy	MJL
 beetle  Machine Learning for high risk applications 2023    Hall, Patrick   BJO
 tiger   Functional Thinking     2013    Ford, Neal      JKP
 Dolphin Up and Running          2019    Born, David
@@ -44,3 +43,5 @@ AardwolfClojure Cookbook	2014	Neufeld, Ryan	DPN
 polar bear	Information Architecture	2015	Rosenfield, Louis & Morville, Peter & Arango, Jorge	JWL
 bat	The Self-Service Data Road map 2020 Uttamchandani, Sandeep	TFP
 lizard Fluent Python 3nd edition 2022 Ramalho, Luciano LJS
+llama  Learning Perl           2021    Schwarz, Randal  JAN
+

@@ -41,6 +41,6 @@ bee	Building Microservices	2021	Newman, Sam	STF??
 Black_Bear      CSS Cookbook (2nd Edition)      2006    Schmitt, Christopher    GA
 bass	Learning the bash shell	2005	Newham, Cameron	NJG
 AardwolfClojure Cookbook	2014	Neufeld, Ryan	DPN
-Polar Bear	Information Architecture	2015	Rosenfield, Louis & Morville, Peter & Arango, Jorge	JWL
-Bat	The Self-Service Data Road map 2020 Uttamchandani, Sandeep	TFP
+polar bear	Information Architecture	2015	Rosenfield, Louis & Morville, Peter & Arango, Jorge	JWL
+bat	The Self-Service Data Road map 2020 Uttamchandani, Sandeep	TFP
 lizard Fluent Python 3nd edition 2022 Ramalho, Luciano LJS

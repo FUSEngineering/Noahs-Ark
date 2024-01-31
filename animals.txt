@@ -14,7 +14,7 @@ bear	Rust Atomics and Locks	2023	Bos, Mara	DMG
 African Civet	JRuby Cookbook	2008	Edelson & Liu	STF
 cat	Learning Modern C++ for Finance	2024	Hanson, Daniel	CRW
 angora goat JUNOS Cookbook	2006	Garret, Aviva	JAF
-ibis	Google Analytics	2010	Cutroni, Justin	MD
+ibis	Google Analytics	2010	Cutroni, Justin	MDS
 Fish 	Developing Web Components 	2015	Overson, Jarrod 	TMH
 dolphin	Kubernetes: Up and Running	2022	Burns, Brendan; Beda, Joe; Hightower, Kelsey; Evenson, Lachlan	NJK
 squid	The Definitive Guide	2004	Wessels, Duane	ELJ

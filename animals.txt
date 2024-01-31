@@ -8,3 +8,4 @@ crab	Practical Statistics	2020	Gedek, Peter	STF
 oryx 	Writing Word Macros	1999	Roman, Steven	STF
 parrot	Learning Microsoft Azure	2023	Andersson, Jonah	SET
 Jellyfish Programming Web Service 2001 Winer, Dave MLT
+Flamingo	Software Engineering at Google	2020	Winters, Titus	FFA

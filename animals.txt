@@ -5,28 +5,28 @@ robin	MySQL High Availability	2014	Bell, Charles	STF
 horse	Linux in a Nutshell	2009	Siever, Ellen	STF
 donkey	Cisco IOS in a Nutshell	2005	Boney, James	STF
 crab	Practical Statistics	2020	Gedek, Peter	STF
-Moryx 	Writing Word Macros	1999	Roman, Steven	STF
+moryx 	Writing Word Macros	1999	Roman, Steven	STF
 parrot	Learning Microsoft Azure	2023	Andersson, Jonah	SET
 holstein cow	Ansible: Up and Running,3rd Edition	2022	Meijer,Bas2	DB
 opossum	Introducing GitHub	2014	Bell, Peter	JFR
 frog    Learning SQL            2020    Beaulieu, Alan  MJA
 bear	Rust Atomics and Locks	2023	Bos, Mara	DMG
-African Civet	JRuby Cookbook	2008	Edelson & Liu	STF
+african civet	JRuby Cookbook	2008	Edelson & Liu	STF
 cat	Learning Modern C++ for Finance	2024	Hanson, Daniel	CRW
 angora goat JUNOS Cookbook	2006	Garret, Aviva	JAF
 ibis	Google Analytics	2010	Cutroni, Justin	MDS
-Fish 	Developing Web Components 	2015	Overson, Jarrod 	TMH
+fish 	Developing Web Components 	2015	Overson, Jarrod 	TMH
 dolphin	Kubernetes: Up and Running	2022	Burns, Brendan; Beda, Joe; Hightower, Kelsey; Evenson, Lachlan	NJK
 squid	The Definitive Guide	2004	Wessels, Duane	ELJ
 aardwolf Clojure Cookbook       2014    Ryan Neufeld,Luke VanderHart   BMB
-Tortoise Classic Shell Scripting 2005 Arnold Robbins, Nelson H. F. Beebe JM
-Bioluminescent Octopus	Learning Functional Programming	2022	Widman, Jack	JJ
+tortoise Classic Shell Scripting 2005 Arnold Robbins, Nelson H. F. Beebe JM
+bioluminescent octopus	Learning Functional Programming	2022	Widman, Jack	JJ
 monkey	Exploring Expect	1994	Libes, Don	CHW
 boar	Designing Data-Intensive Applications  2017  Kleppmann, Martin  CTB
 american bison	Java Extreme Programming Cookbook	2003	Burke, Eric	BUB
 owl	Linux Observability with BPF	2019	Calavera, David; Fontana, Lorenzo	ASW
-African black-footed penguin	Reinforcement Learning	2020	Winder, P	JKC
-Feather Star  Developing Apps with GPT-4 and ChatGPT  2023  Caelen, Olivier; Blete, Marie-Alice  JPTM
+african black-footed penguin	Reinforcement Learning	2020	Winder, P	JKC
+feather star  Developing Apps with GPT-4 and ChatGPT  2023  Caelen, Olivier; Blete, Marie-Alice  JPTM
 northern copperhead snake	C# Cookbook	2021	Mayo, Joe	JAE
 rhino	JavaScript: The Definitve Guide	2020	Flangan, David JSH
 rooster	SharePoint User's Guide	Infusion Development Corporation	SET
@@ -35,11 +35,11 @@ badger	Perl Template Toolkit	2003	Chamberlain, Darren & Cross, David & Wardley, 
 jellyfish	BioBuilder	2015	Kuldell, Natalie	STF
 beetle  Machine Learning for high risk applications 2023    Hall, Patrick   BJO
 tiger   Functional Thinking     2013    Ford, Neal      JKP
-Dolphin Up and Running          2019    Born, David
+dolphin Up and Running          2019    Born, David
 bee	Building Microservices	2021	Newman, Sam	STF??
 Black_Bear      CSS Cookbook (2nd Edition)      2006    Schmitt, Christopher    GA
 bass	Learning the bash shell	2005	Newham, Cameron	NJG
-AardwolfClojure Cookbook	2014	Neufeld, Ryan	DPN
+aardwolf	Clojure Cookbook	2014	Neufeld, Ryan	DPN
 polar bear	Information Architecture	2015	Rosenfield, Louis & Morville, Peter & Arango, Jorge	JWL
 bat	The Self-Service Data Road map 2020 Uttamchandani, Sandeep	TFP
 lizard Fluent Python 3nd edition 2022 Ramalho, Luciano LJS
